@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of t11n-dev/flarum-migration-tool.** Not for installation: use [Packagist](https://packagist.org/packages/t11n-dev/flarum-migration-tool) or the [upstream repository](https://github.com/t11n-dev/Flarum-Migration-Tool).
 
-**0** versions archived · Latest: [`v2.5.1`](https://github.com/flarchive/t11n-dev-flarum-migration-tool/tree/archive/v2.5.1) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`v2.5.1`](https://github.com/flarchive/t11n-dev-flarum-migration-tool/tree/archive/v2.5.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v2.5.0` | 2026-10-19 | `^1.0` | [Browse](https://github.com/flarchive/t11n-dev-flarum-migration-tool/tree/archive/v2.5.0) |
+| `v2.5.1` | 2026-10-19 | `^1.0` | [Browse](https://github.com/flarchive/t11n-dev-flarum-migration-tool/tree/archive/v2.5.1) |
 
 Catalog entry: [packages/t11n-dev-flarum-migration-tool.json](https://github.com/flarchive/archive-index/blob/main/packages/t11n-dev-flarum-migration-tool.json)
 
